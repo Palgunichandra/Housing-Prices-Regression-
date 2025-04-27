@@ -1,5 +1,5 @@
-# Housing-Prices-Regression-
-EDA and Model Evaluation
+# Housing-Prices-Regression-EDA and Model Evaluation
+
 This project analyzes and predicts house prices using a regression approach. It includes exploratory data analysis (EDA), feature engineering, model training, and evaluation steps. The dataset used is the popular Kaggle House Prices: Advanced Regression Techniques dataset.
 
 Project Structure
